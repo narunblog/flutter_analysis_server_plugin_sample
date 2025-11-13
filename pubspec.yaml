@@ -8,3 +8,4 @@ environment:
 
 workspace:
   - packages/custom_plugin
+  - packages/example
